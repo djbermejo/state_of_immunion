@@ -1,4 +1,6 @@
 # state_of_immunion
+Purpose:  To find out locations/districts where we can make the most impact.
+
 
 # Download data from ISBE:
 https://www.isbe.net/Pages/Health-Requirements-Student-Health-Data.aspx
